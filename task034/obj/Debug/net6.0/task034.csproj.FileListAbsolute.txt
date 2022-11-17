@@ -1,0 +1,15 @@
+C:\Юля\c#домашки\C#ДЗ5\task034\bin\Debug\net6.0\task034.exe
+C:\Юля\c#домашки\C#ДЗ5\task034\bin\Debug\net6.0\task034.deps.json
+C:\Юля\c#домашки\C#ДЗ5\task034\bin\Debug\net6.0\task034.runtimeconfig.json
+C:\Юля\c#домашки\C#ДЗ5\task034\bin\Debug\net6.0\task034.dll
+C:\Юля\c#домашки\C#ДЗ5\task034\bin\Debug\net6.0\task034.pdb
+C:\Юля\c#домашки\C#ДЗ5\task034\obj\Debug\net6.0\task034.csproj.AssemblyReference.cache
+C:\Юля\c#домашки\C#ДЗ5\task034\obj\Debug\net6.0\task034.GeneratedMSBuildEditorConfig.editorconfig
+C:\Юля\c#домашки\C#ДЗ5\task034\obj\Debug\net6.0\task034.AssemblyInfoInputs.cache
+C:\Юля\c#домашки\C#ДЗ5\task034\obj\Debug\net6.0\task034.AssemblyInfo.cs
+C:\Юля\c#домашки\C#ДЗ5\task034\obj\Debug\net6.0\task034.csproj.CoreCompileInputs.cache
+C:\Юля\c#домашки\C#ДЗ5\task034\obj\Debug\net6.0\task034.dll
+C:\Юля\c#домашки\C#ДЗ5\task034\obj\Debug\net6.0\refint\task034.dll
+C:\Юля\c#домашки\C#ДЗ5\task034\obj\Debug\net6.0\task034.pdb
+C:\Юля\c#домашки\C#ДЗ5\task034\obj\Debug\net6.0\task034.genruntimeconfig.cache
+C:\Юля\c#домашки\C#ДЗ5\task034\obj\Debug\net6.0\ref\task034.dll
